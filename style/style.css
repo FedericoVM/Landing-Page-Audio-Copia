@@ -46,3 +46,12 @@ main{
 .colores-productos img{
     width: 13rem;
 }
+
+.diseño .seccion-1{
+    background-image: url("../img/diseño/fitness-about-bg.jpg");
+}
+
+.diseño .seccion-diseño-3{
+    background-image: url("../img/diseño/hero-bg40.jpg");
+    height: 50vh;
+}
