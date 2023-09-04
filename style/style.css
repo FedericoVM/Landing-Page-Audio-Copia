@@ -1,0 +1,25 @@
+
+.carousel-inner{
+    height: 90vh;
+} 
+
+#item-1{
+    height: 100%;
+    background-image: url("../img/carousel/agency-slider-01.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#item-2{
+    height: 100%;
+    background-image: url("../img/carousel/agency-slider-02.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#item-3{
+    height: 100%;
+    background-image: url("../img/carousel/agency-slider-03.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
