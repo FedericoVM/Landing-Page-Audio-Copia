@@ -23,3 +23,16 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.slider{
+    height: 90vh;
+
+}
+
+.sobre-nosotros{
+    height: 80vh;
+}
+
+.sobre-nosotros img{
+    width: 95%;
+}
