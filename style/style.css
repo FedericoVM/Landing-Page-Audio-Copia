@@ -25,14 +25,19 @@
 }
 
 .slider{
-    height: 90vh;
+    height: 90%;
 
 }
 
-.sobre-nosotros{
-    height: 80vh;
-}
 
 .sobre-nosotros img{
     width: 95%;
+}
+
+main{
+    height: 100vh;
+}
+
+#img-seccion-caracteristicas{
+    background-image: url("../img/caracteristicas/hero-bg38.jpg");
 }
