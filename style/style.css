@@ -41,3 +41,8 @@ main{
 #img-seccion-caracteristicas{
     background-image: url("../img/caracteristicas/hero-bg38.jpg");
 }
+
+
+.colores-productos img{
+    width: 13rem;
+}
